@@ -1,0 +1,1 @@
+export PS1='\[\e[0;38;5;88;48;5;172m\]Capstone-Project\[\e[0;3;38;5;88;48;5;172m\]@\[\e[0;1;38;5;88;48;5;172m\]petclinic-dev-server\[\e[0;38;5;226m\]\w\[\e[0;32m\](\[\e[0;32m\]$(git branch 2>/dev/null | grep '"'"'^*'"'"' | colrm 1 2)\[\e[0;32m\])\[\e[0m\]'
